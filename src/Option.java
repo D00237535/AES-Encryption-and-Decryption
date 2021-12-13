@@ -1,2 +1,1 @@
-public class Option {
-}
+public enum Option { OPT1, OPT2, EXIT }

@@ -1,0 +1,7 @@
+Regexp matching in Menu class:
+    - https://www.tutorialspoint.com/java/java_regular_expressions.htm
+
+StringBuilder in Decrypter class:
+    - https://www.simplilearn.com/tutorials/java-tutorial/stringbuilder-in-java
+    - https://stackoverflow.com/questions/4645020/when-to-use-stringbuilder-in-java
+    - https://stackoverflow.com/questions/5192512/how-can-i-clear-or-empty-a-stringbuilder
